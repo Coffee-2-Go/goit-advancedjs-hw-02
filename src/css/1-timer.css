@@ -1,0 +1,15 @@
+.timer-field {
+  margin-top: 64px;
+}
+
+.timer {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  margin-top: 24px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+}

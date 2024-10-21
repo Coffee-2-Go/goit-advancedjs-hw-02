@@ -1,0 +1,19 @@
+.form {
+    margin-top: 64px;
+    display: flex;
+    flex-direction: column;
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 8px;
+  }
+
+  .form-input {
+    width: 240px;
+  }
+
+  .form-field {
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+  }
